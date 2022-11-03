@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Haruka-Md/blob/v1/media/Haruka.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/zeeone-ofc/Haruka-Md/blob/v1/media/Haruka.jpg" alt="VEZZ BOT" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="HARUKA MULTI DEVICE" src="https://img.shields.io/badge/HARUKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="VEZZBOT MULTI DEVICE" src="https://img.shields.io/badge/VEZZBOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeone-ofc/Haruka-Md"><img title="Owner" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/zeeone-ofc/Haruka-Md"><img title="Owner" src="https://img.shields.io/badge/Recode-AlvezzID-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
@@ -53,13 +53,13 @@ npm start
 ## Edit file
 `./config.json`
 ```{
-    "ownerNumber": ["6285342106390@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
+    "ownerNumber": ["6282139608737@s.whatsapp.net","6283128435710@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ Alvezz×፝֟͜×",
+    "instagram" : "https://instagram.com/aldyrzz",
+    "botName": "Vezzbot-Md",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
-    "pathimg": "./media/Haruka.jpg",
+    "pathimg": "./media/VezzBot.jpg",
     "BotKey": "V12",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
@@ -84,14 +84,14 @@ npm start
 </p>
 
 ## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
-- [Dana](https://j.top4top.io/p_20532posd1.jpg)
+- [Saweria](https://saweria.co/alvezzid)
+- [Dana](https://ibb.co/61m2VNv)
 - [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
 
 # Official Group
-- [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
+- [Group 1](https://chat.whatsapp.com/CFlmGkDp3La3MFKyWS7rOy)
+- [Group 2](https://chat.whatsapp.com/BaEDfUzs5iM9kl92ozvj8Z)
+- [Group 3](https://chat.whatsapp.com/IhZ2em6lYNh9dObqQXXr4Y)
+- [Group 4](https://chat.whatsapp.com/IAODvciEiEdKhEh0je6Ujx)
 - [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
 
